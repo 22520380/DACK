@@ -31,9 +31,6 @@
 ### 2.CARS CLASSIFICATION (SOURCE CODE AND OUTPUT)
 
 
-<a name ="mota"></a>
-### 3.REPORT
-
 ## GIẢNG VIÊN HƯỚNG DẪN
 <a name="giangvien"></a>
 * PGS.TS. **Lê Đình Duy** - *duydl@uit.edu.vn*
